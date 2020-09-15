@@ -4,7 +4,7 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>org.example</groupId>
+    <groupId>org.example.madjid</groupId>
     <artifactId>lesdag06</artifactId>
     <version>1.0-SNAPSHOT</version>
     <dependencies>
@@ -18,6 +18,8 @@
             <groupId>org.assertj</groupId>
             <artifactId>assertj-core</artifactId>
             <version>3.17.2</version>
+            <scope>test</scope>
+
         </dependency>
     </dependencies>
 
